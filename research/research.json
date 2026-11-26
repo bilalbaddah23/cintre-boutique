@@ -1,0 +1,289 @@
+{
+  "brand": "Cintre Boutique",
+  "handle": "cintreboutique_official",
+  "instagram": "https://www.instagram.com/cintreboutique_official/",
+  "contactMode": "instagram",
+  "phone": "",
+  "displayPhone": "",
+  "followersDisplay": "30.4K",
+  "followersObserved": 30400,
+  "latestVisiblePost": "2026-11-21",
+  "researchDate": "2026-11-26",
+  "profileObservedDate": "2026-11-22",
+  "profileBio": "Log In\nSign Up\ncintreboutique_official\n30.4K followers\n1,776 following\nCintre' Official\nA Fashion Destination\n🇱🇧 Clothing Concept Boutique\n🌏 Worldwide Shipping\n📍Chekka • Main Road\n📱 +961 3 918 624\n📞 +961 26 545 624\nmaps.app.goo.gl/fzWpc2KGsAde5KGM7?g_st=ic\n",
+  "bioLinks": [
+    "https://maps.app.goo.gl/fzWpc2KGsAde5KGM7?g_st=ic"
+  ],
+  "branches": [
+    {
+      "name": "Chekka Main Road, Lebanon",
+      "mapUrl": "https://maps.app.goo.gl/fzWpc2KGsAde5KGM7?g_st=ic"
+    }
+  ],
+  "about": "Cintre is a clothing concept boutique on Chekka Main Road. Browse its photographed outfits and individual collection references, save inspiration and contact the team to confirm the details of your selection.",
+  "hours": "Confirm current shop hours with the team",
+  "heroImage": "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/03.jpg",
+  "storyImage": "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/04.jpg",
+  "galleryImages": [
+    "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/01.jpg",
+    "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/03.jpg",
+    "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/04.jpg",
+    "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/05.jpg",
+    "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/06.jpg",
+    "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/07.jpg",
+    "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/08.jpg",
+    "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/09.jpg",
+    "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/10.jpg",
+    "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/12.jpg"
+  ],
+  "products": [
+    {
+      "id": "striped-asymmetric-shirt",
+      "name": "Striped Asymmetric Shirt",
+      "category": "Tops",
+      "description": "A pale vertically striped shirt with a pointed asymmetric hem, shown with grey trousers. Price, availability, sizing and the exact photographed reference need confirmation with the shop.",
+      "images": [
+        "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/01.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/cintreboutique_official/reel/DgAbCF6oRCK/",
+      "sourcePosts": [
+        "https://www.instagram.com/cintreboutique_official/reel/DgAbCF6oRCK/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with the shop"
+      ]
+    },
+    {
+      "id": "burgundy-zip-jacket",
+      "name": "Burgundy Zip Jacket",
+      "category": "Jackets",
+      "description": "A dark burgundy zip-front jacket with a shaped waist and structured seams. Price, availability, sizing and the exact photographed reference need confirmation with the shop.",
+      "images": [
+        "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/03.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/cintreboutique_official/reel/Df-hMsaxgSX/",
+      "sourcePosts": [
+        "https://www.instagram.com/cintreboutique_official/reel/Df-hMsaxgSX/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with the shop"
+      ]
+    },
+    {
+      "id": "checked-belted-jacket",
+      "name": "Checked Belted Jacket",
+      "category": "Jackets",
+      "description": "A grey checked jacket with a belt at the waist, shown in a side and back styling view. Price, availability, sizing and the exact photographed reference need confirmation with the shop.",
+      "images": [
+        "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/04.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/cintreboutique_official/reel/Df-P0sqBLI7/",
+      "sourcePosts": [
+        "https://www.instagram.com/cintreboutique_official/reel/Df-P0sqBLI7/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with the shop"
+      ]
+    },
+    {
+      "id": "pleated-grey-skirt",
+      "name": "Pleated Grey Skirt",
+      "category": "Bottoms",
+      "description": "A grey pleated short skirt styled with a burgundy jacket and boots. This reference is for the skirt; ask about other styling items separately. Price, availability, sizing and the exact photographed reference need confirmation with the shop.",
+      "images": [
+        "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/05.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/cintreboutique_official/reel/Df9q2Mexh6J/",
+      "sourcePosts": [
+        "https://www.instagram.com/cintreboutique_official/reel/Df9q2Mexh6J/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with the shop"
+      ]
+    },
+    {
+      "id": "burgundy-v-neck-top",
+      "name": "Burgundy V-Neck Top",
+      "category": "Tops",
+      "description": "A fitted burgundy long-sleeved V-neck top, shown with wide grey trousers. Price, availability, sizing and the exact photographed reference need confirmation with the shop.",
+      "images": [
+        "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/06.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/cintreboutique_official/reel/Df9o6kNRPfs/",
+      "sourcePosts": [
+        "https://www.instagram.com/cintreboutique_official/reel/Df9o6kNRPfs/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with the shop"
+      ]
+    },
+    {
+      "id": "olive-padded-jacket",
+      "name": "Olive Padded Jacket",
+      "category": "Jackets",
+      "description": "A short olive padded-looking jacket with a high collar and horizontal panel seams. Price, availability, sizing and the exact photographed reference need confirmation with the shop.",
+      "images": [
+        "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/07.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/cintreboutique_official/p/Df7efniEQtt/",
+      "sourcePosts": [
+        "https://www.instagram.com/cintreboutique_official/p/Df7efniEQtt/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with the shop"
+      ]
+    },
+    {
+      "id": "green-grey-zip-knit",
+      "name": "Green Grey Zip Knit",
+      "category": "Knitwear",
+      "description": "A zip-front knit with broad green and grey horizontal stripes and a high collar. Price, availability, sizing and the exact photographed reference need confirmation with the shop.",
+      "images": [
+        "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/08.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/cintreboutique_official/p/Df7Z_fNiFsH/",
+      "sourcePosts": [
+        "https://www.instagram.com/cintreboutique_official/p/Df7Z_fNiFsH/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with the shop"
+      ]
+    },
+    {
+      "id": "dark-fitted-shirt",
+      "name": "Dark Fitted Shirt",
+      "category": "Tops",
+      "description": "A dark fitted collared shirt shown with a short denim skirt in a collection styling image. Price, availability, sizing and the exact photographed reference need confirmation with the shop.",
+      "images": [
+        "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/09.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/cintreboutique_official/reel/Df4_4WGxWFJ/",
+      "sourcePosts": [
+        "https://www.instagram.com/cintreboutique_official/reel/Df4_4WGxWFJ/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with the shop"
+      ]
+    },
+    {
+      "id": "striped-button-cardigan",
+      "name": "Striped Button Cardigan",
+      "category": "Knitwear",
+      "description": "A brown and pale striped button-front cardigan, styled with a brown skirt. Price, availability, sizing and the exact photographed reference need confirmation with the shop.",
+      "images": [
+        "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/10.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/cintreboutique_official/p/Df4fTj0iF1s/",
+      "sourcePosts": [
+        "https://www.instagram.com/cintreboutique_official/p/Df4fTj0iF1s/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with the shop"
+      ]
+    },
+    {
+      "id": "burgundy-tall-boots",
+      "name": "Burgundy Tall Boots",
+      "category": "Footwear",
+      "description": "Tall burgundy boots shown both as a handheld reference and styled with a skirt. Ask the team to confirm the exact length and current sizes. Price, availability, sizing and the exact photographed reference need confirmation with the shop.",
+      "images": [
+        "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/12.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/cintreboutique_official/reel/Df12lcOxrqr/",
+      "sourcePosts": [
+        "https://www.instagram.com/cintreboutique_official/reel/Df12lcOxrqr/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with the shop"
+      ]
+    }
+  ],
+  "websiteCheck": {
+    "result": "No matching independent official website found in reviewed sources",
+    "primary": "Saved primary Instagram profile and links exported on 2026-11-22; no independent shop link appears in this saved export.",
+    "boundedSearches": [
+      "\"cintreboutique_official\" website shop",
+      "\"Cintre\" \"3918624\" shop website"
+    ],
+    "recheckedDate": "2026-11-26",
+    "sources": [
+      "https://www.instagram.com/cintreboutique_official/"
+    ],
+    "caveat": "An unlisted website cannot be ruled out. Saved primary profile observations are dated 2026-11-22; search recheck is 2026-11-26."
+  },
+  "contactEvidence": "Official Instagram used for enquiries. Saved primary profile contains a telephone number but does not explicitly verify WhatsApp at that number.",
+  "priceEvidence": "No exact item-linked USD price is visible in the selected exported images or available saved captions. All price fields remain null. Display Ask for price; do not invent prices.",
+  "imageCaution": "Selected business-published still images include Reel covers and styled imagery where identified by source alt text. They are references, not independently verified product photography, materials, stock or brand authenticity. No video frames were extracted. Names describe visible garments rather than owner-assigned product references.",
+  "imageSources": [
+    {
+      "file": "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/01.jpg",
+      "post": "https://www.instagram.com/cintreboutique_official/reel/DgAbCF6oRCK/",
+      "alt": "Video by Cintre' Official on November 21, 2026. May be an image of overskirt, top and text.",
+      "sha256": "676ce69882b715b129e3fb5382091da6ae291f11324f5de2d96b5f72e8173f32"
+    },
+    {
+      "file": "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/03.jpg",
+      "post": "https://www.instagram.com/cintreboutique_official/reel/Df-hMsaxgSX/",
+      "alt": "Video by Cintre' Official on November 20, 2026. May be an image of jacket, top and text.",
+      "sha256": "3092aedef5b1e16fa846f27a522129a1d1b879583cbb7330bf6af8405c087187"
+    },
+    {
+      "file": "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/04.jpg",
+      "post": "https://www.instagram.com/cintreboutique_official/reel/Df-P0sqBLI7/",
+      "alt": "Video by Cintre' Official on November 20, 2026. May be an image of cardigan, blazer, outerwear, top, dress and text.",
+      "sha256": "d7c92a1d3ffb218f3e841c71e6333f283e38b3054ad3d860a4a564627e8aa5c1"
+    },
+    {
+      "file": "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/05.jpg",
+      "post": "https://www.instagram.com/cintreboutique_official/reel/Df9q2Mexh6J/",
+      "alt": "Video by Cintre' Official on November 20, 2026. May be an image of boots, leather, miniskirt, skirt, jacket and text.",
+      "sha256": "0a6965ba1884f99bdc384eda6b8ce35915221df166b753e515a46cca58ea38e6"
+    },
+    {
+      "file": "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/06.jpg",
+      "post": "https://www.instagram.com/cintreboutique_official/reel/Df9o6kNRPfs/",
+      "alt": "Video by Cintre' Official on November 20, 2026. May be an image of activewear, sweatpants, sweatshirt, top, skirt and text.",
+      "sha256": "833feb8ad8b53df2065fbfa44a06dac6b514597dbd00a77b6ef123b9d43e5bd4"
+    },
+    {
+      "file": "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/07.jpg",
+      "post": "https://www.instagram.com/cintreboutique_official/p/Df7efniEQtt/",
+      "alt": "Photo by Cintre' Official on November 19, 2026.",
+      "sha256": "3f507a2b52e813a1bd8952dd9f6398891aa8cc0ae0f74480f90e1e13ad2d2813"
+    },
+    {
+      "file": "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/08.jpg",
+      "post": "https://www.instagram.com/cintreboutique_official/p/Df7Z_fNiFsH/",
+      "alt": "Photo by Cintre' Official on November 19, 2026. May be an image of text.",
+      "sha256": "417309f7599b226d76cbb70299b67c16145fa95931a768526292b0f0f1a31e47"
+    },
+    {
+      "file": "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/09.jpg",
+      "post": "https://www.instagram.com/cintreboutique_official/reel/Df4_4WGxWFJ/",
+      "alt": "Video by Cintre' Official on November 18, 2026. May be an image of boots, leather, slingback shoes and text.",
+      "sha256": "b3548708a21eda240b55760234cdff6c55c6876f363f643bf53478a34dcc1d2b"
+    },
+    {
+      "file": "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/10.jpg",
+      "post": "https://www.instagram.com/cintreboutique_official/p/Df4fTj0iF1s/",
+      "alt": "Photo by Cintre' Official on November 18, 2026. May be an image of text.",
+      "sha256": "0a871d79191f64fdb9228562fe930fca6322c95b68346ef8391dea51d0697ae2"
+    },
+    {
+      "file": "C:/Projects/prospect-research/nov22-ten-b/cintre-boutique/assets/12.jpg",
+      "post": "https://www.instagram.com/cintreboutique_official/reel/Df12lcOxrqr/",
+      "alt": "Video by Cintre' Official on November 17, 2026. May be an image of boots, leather, miniskirt, high-heeled shoes and text.",
+      "sha256": "006c5012c4c98481e8acbd3534ab499b64fcfc8ef041eeed9c74d92565f4f1b7"
+    }
+  ]
+}
